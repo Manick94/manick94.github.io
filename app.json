@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Little Teddy",
+        "Description": "This is a sample description of the game",
+        "IconUrl": "https://manick94.github.io/Images/i10.PNG" 
+    },
+     {
+         "Name": "G.O.T",
+         "Description": "This a Sample 2nd description about the 2nd game",
+         "IconUrl": "https://manick94.github.io/Images/i7.PNG"
+     },
+     {
+        "Name": "Angry Tanks",
+        "Description": "This a Sample 3rd description about the 3rd game",
+        "IconUrl": "https://manick94.github.io/Images/i6.PNG"
+    },
+    {
+        "Name": "Happy House",
+        "Description": "This a Sample 4th description about the 4th game",
+        "IconUrl": "https://manick94.github.io/Images/i2.PNG"
+    },
+    {
+        "Name": "Black Ninja",
+        "Description": "This a Sample 5th description about the 4th game",
+        "IconUrl": "https://manick94.github.io/Images/i4.PNG"
+    }
+]
