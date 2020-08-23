@@ -1,0 +1,16 @@
+{
+"companyName": "novactech",
+"productName": "The Plague",
+"productVersion": "1",
+"dataUrl": "9fe2f5531960ffbdfdb5aae95014ff0d.unityweb",
+"wasmCodeUrl": "d45b0327c5bf85e61877c46765fd1d8c.unityweb",
+"wasmFrameworkUrl": "875f83bae66e0f8d16f4db6f375b52a3.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#303030",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.7f1"
+}
