@@ -1,0 +1,86 @@
+[
+    {
+      "question_id": "1",
+      "quiz_id": "1",
+      "question": "The answer for this question is option 1",
+      "question__type": "MC",
+      "answers": [
+        {
+          "answer_id": "1",
+          "answer": "Option 1",
+          "right_ans": "1"
+        },
+        {
+          "answer_id": "2",
+          "answer": "Option 2",
+          "right_ans": "0"
+        },
+        {
+          "answer_id": "3",
+          "answer": "Option 3",
+          "right_ans": "0"
+        },
+        {
+          "answer_id": "4",
+          "answer": "Option 4",
+          "right_ans": "0"
+        }
+      ]
+    },
+    {
+      "question_id": "2",
+      "quiz_id": "1",
+      "question": "The answer for this question is option 2",
+      "question__type": "MC",
+      "answers": [
+        {
+          "answer_id": "1",
+          "answer": "Option 1",
+          "right_ans": "0"
+        },
+        {
+          "answer_id": "2",
+          "answer": "Option 2",
+          "right_ans": "1"
+        },
+        {
+          "answer_id": "3",
+          "answer": "Option 3",
+          "right_ans": "0"
+        },
+        {
+          "answer_id": "4",
+          "answer": "Option 4",
+          "right_ans": "0"
+        }
+      ]
+    },
+    {
+      "question_id": "3",
+      "quiz_id": "1",
+      "question": "The answer for this question is option 3",
+      "question__type": "MC",
+      "answers": [
+        {
+          "answer_id": "1",
+          "answer": "Option 1",
+          "right_ans": "0"
+        },
+        {
+          "answer_id": "2",
+          "answer": "Option 2",
+          "right_ans": "0"
+        },
+        {
+          "answer_id": "3",
+          "answer": "Option 3",
+          "right_ans": "1"
+        },
+        {
+          "answer_id": "4",
+          "answer": "Option 4",
+          "right_ans": "0"
+        }
+      ]
+    }
+  ]
