@@ -2,10 +2,7 @@
     "Questions":[
         {
             "Question": "This is an Alternate Question manually generated",      
-            "Image": "",
-            
-            "isToF":"",
-            "ToFAnswer": "",
+
             "Answers":[
                 {
                     "Text": "Mad Answer",
