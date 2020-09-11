@@ -2,6 +2,7 @@
     "Questions":[
         {
             "Question": "This is an Alternate Question manually generated",      
+            "Image":"",
             "isToF": false,
             "ToFAnswer":false,
 
